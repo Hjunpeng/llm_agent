@@ -1,0 +1,10 @@
+openai
+langchain
+python-dotenv
+langchain-openai
+zhipuai
+langchain-community
+chromadb
+streamlit
+pymupdf
+watchdog
